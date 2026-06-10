@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Согласие председателя родительского комитета</title>
+<style>
+@page { size: A4; margin: 2cm; }
+body { font-family: "Times New Roman", serif; font-size: 14pt; line-height: 1.25; margin: 0; }
+.page { page-break-after: always; }
+.page:last-child { page-break-after: auto; }
+h1 { font-size: 14pt; text-align: center; font-weight: bold; margin: 0 0 18pt 0; line-height: 1.25; }
+p { text-align: justify; text-indent: 1.25cm; margin: 0 0 10pt 0; }
+.noindent { text-indent: 0; }
+.field { border-bottom: 1px solid #000; display: inline-block; min-width: 520px; height: 18pt; }
+.caption { text-align: center; font-size: 12pt; margin-top: 0; margin-bottom: 10pt; }
+table.sign { width: 100%; border-collapse: collapse; margin-top: 26pt; font-size: 14pt; }
+table.sign td { vertical-align: bottom; padding: 0 6pt 4pt 0; }
+.line { border-bottom: 1px solid #000; height: 20pt; }
+.small { font-size: 12pt; text-align: center; }
+</style>
+</head>
+<body>
+<div class="page">
+<h1>ИНФОРМИРОВАННОЕ СОГЛАСИЕ ПРЕДСЕДАТЕЛЯ РОДИТЕЛЬСКОГО КОМИТЕТА<br>НА ПРОВЕДЕНИЕ ИССЛЕДОВАТЕЛЬСКОЙ РАБОТЫ С УЧАЩИМИСЯ</h1>
+<p class="noindent">Я, <span class="field"></span></p>
+<div class="caption">Ф.И.О. председателя родительского комитета</div>
+<p>как председатель родительского комитета ознакомился(ась) с информацией о научном исследовании по проекту «Методика формирования алгоритмического мышления учащихся начальных классов в процессе обучения программированию» и от имени родительского комитета даю согласие на проведение данной исследовательской работы с учащимися.</p>
+<p>Мне была предоставлена достаточная информация о целях, содержании и порядке проведения исследования.</p>
+<p>Я понимаю, что участие учащихся в исследовании является добровольным и что каждый участник вправе отказаться от дальнейшего участия в любое время без каких-либо отрицательных последствий.</p>
+<p>Я даю согласие на использование полученных в ходе исследования обобщённых данных в научных целях и их публикацию при условии соблюдения правил конфиденциальности и недопущения раскрытия персональных данных учащихся.</p>
+<p>Я получил(а) копии «Информационного листа для участника» и «Информированного согласия».</p>
+<table class="sign">
+<tr><td style="width:68%" class="line"></td><td style="width:32%" class="line"></td></tr>
+<tr><td class="small">Ф.И.О. председателя родительского комитета</td><td class="small">дата</td></tr>
+</table>
+<table class="sign" style="margin-top:20pt; width:55%">
+<tr><td class="line"></td></tr>
+<tr><td class="small">подпись председателя родительского комитета</td></tr>
+</table>
+</div>
+<div class="page">
+<h1>ИНФОРМИРОВАННОЕ СОГЛАСИЕ УЧИТЕЛЕЙ<br>НА ДОБРОВОЛЬНОЕ УЧАСТИЕ В ИССЛЕДОВАТЕЛЬСКОЙ РАБОТЕ</h1>
+<p class="noindent">Я, <span class="field"></span></p>
+<div class="caption">Ф.И.О. учителя</div>
+<p>ознакомился(ась) с информацией о научном исследовании по проекту «Методика формирования алгоритмического мышления учащихся начальных классов в процессе обучения программированию» и даю согласие на участие в нём.</p>
+<p>Мне было предоставлено достаточно времени для принятия решения об участии в исследовании.</p>
+<p>Я понимаю, что могу в любое время по собственному желанию отказаться от дальнейшего участия в исследовании и что это не повлияет на мою дальнейшую деятельность.</p>
+<p>Я добровольно даю согласие на использование полученных в ходе исследования данных в научных целях и их публикацию при условии соблюдения правил конфиденциальности.</p>
+<p>Я получил(а) копии «Информационного листа для участника» и «Информированного согласия».</p>
+<table class="sign">
+<tr><td style="width:68%" class="line"></td><td style="width:32%" class="line"></td></tr>
+<tr><td class="small">Ф.И.О. учителя</td><td class="small">дата</td></tr>
+</table>
+<table class="sign" style="margin-top:20pt; width:45%">
+<tr><td class="line"></td></tr>
+<tr><td class="small">подпись учителя</td></tr>
+</table>
+</div>
+</body>
+</html>
